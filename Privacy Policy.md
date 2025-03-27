@@ -37,4 +37,4 @@ Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. The latest version will be posted on this page, and the effective date will be updated accordingly.
 
 Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact the Creator
+If you have any questions or concerns about this Privacy Policy, please contact: ttheethatt@gmail.com
