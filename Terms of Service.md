@@ -6,25 +6,25 @@ By accessing or using TFM (“the Bot”), you agree to be bound by these Terms 
 Description of Service
 TFM is a text-to-speech (TTS) bot for Discord created by Creator. TFM provides various functions, including:
 
-!s <text>: Speak text with automatic language detection (English/Thai)
+/s <text>: Speak text with automatic language detection (English/Thai)
 
-!f <lang_code> <text>: Force speak using the specified language
+/f <lang_code> <text>: Force speak using the specified language
 
-!t <lang_code> <text>: Translate then speak the text
+/t <lang_code> <text>: Translate then speak the text
 
-!j: Join your voice channel and display an interactive menu
+/j: Join your voice channel and display an interactive menu
 
-!l: Leave the voice channel
+/l: Leave the voice channel
 
-!stp: Stop the current speech
+/stp: Stop the current speech
 
-!cq: Clear the speech queue
+/cq: Clear the speech queue
 
-!q: Show the current speech queue
+/q: Show the current speech queue
 
-!langs: List all supported languages
+/langs: List all supported languages
 
-!h: Display help information
+/h: Display help information
 
 Additionally, TFM greets users with:
 "Hi there! I'm a TTS bot that can speak your text in various languages. Enjoy using me!"
