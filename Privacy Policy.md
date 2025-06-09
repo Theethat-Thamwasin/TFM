@@ -5,7 +5,7 @@ This Privacy Policy explains how TFM, a Discord TTS bot created by the Creator, 
 
 Information We Collect
 
-User-Provided Information: When you use commands (e.g., !s, !f, !t, etc.), your Discord username, user ID, and any other information you voluntarily provide may be processed by the Bot.
+User-Provided Information: When you use commands (e.g., /s, /f, /t, etc.), your Discord username, user ID, and any other information you voluntarily provide may be processed by the Bot.
 
 Usage Data: Technical data such as your device information, command usage, and interaction logs may be collected for service improvement and security purposes.
 
